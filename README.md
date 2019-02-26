@@ -15,6 +15,8 @@ Api request is executed through the local express server in which the CORS polic
 INSTALL 
 
 npm i  - install
+
 npm run dev  - to run front and server with api
+
 npm build 
 
